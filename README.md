@@ -1,0 +1,1 @@
+Competição disponibilizada pelo kaggle com o objetivo de trabalhar em cima do dataset dos passageiros do Titanic e desenvolver um modelo para prever se uma pessoa sobreviveria ou não ao naufrágio 
