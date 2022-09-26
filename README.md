@@ -1,1 +1,3 @@
-Competição disponibilizada pelo kaggle com o objetivo de trabalhar em cima do dataset dos passageiros do Titanic e desenvolver um modelo para prever se uma pessoa sobreviveria ou não ao naufrágio 
+Competição disponibilizada pelo kaggle com o objetivo de trabalhar em cima do dataset dos passageiros do Titanic e desenvolver um modelo para prever se uma pessoa sobreviveria ou não ao naufrágio com base nos dados da mesma. <br>
+
+Tecnologias utilizadas: Pandas para a criação e processamentos dos dados atráves de DataFrames, visualização gráfica dos dados com as bibliotecas matplotlib e seaborn, numpy para operações matemáticas, sklearn para o desenvolvimento dos classificadores com Machine Learning <br>
